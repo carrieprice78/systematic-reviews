@@ -1,6 +1,6 @@
 # Process Guidance 
 
-## [Cochrane Collaboration](https://www.cochrane.org/)_
+## [Cochrane Collaboration](https://www.cochrane.org/)
 
 The Cochrane Collaboration's tools and resources will guide your systematic review whether or not it is a Cochrane Review.
 
